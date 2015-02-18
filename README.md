@@ -1,2 +1,2 @@
 # hello-world
-My first repository, used to experiment with and learn git
+My first repository, used to experiment with git and learn how it works
